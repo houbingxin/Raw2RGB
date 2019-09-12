@@ -1,4 +1,11 @@
 # Raw2RGB
+
+Environment:
+Python 3.6
+openCV
+Tensorflow
+Keras
+
 The code is able to transform raw image to rgb image.
 
 The result images are saved in GoogleDrive
